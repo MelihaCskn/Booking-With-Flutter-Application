@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "516144024703",
+    "project_id": "rezerve-8b115",
+    "storage_bucket": "rezerve-8b115.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:516144024703:android:4e6912328d7b5809dfc34a",
+        "android_client_info": {
+          "package_name": "com.example.rezerve"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "516144024703-thebv2q66kaiofk19761m1l6k2t9gqpv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rezerve",
+            "certificate_hash": "aec76773a435cdcac3c403638697719458bfd812"
+          }
+        },
+        {
+          "client_id": "516144024703-s64t8l5rhacvejcrmelabcfa7dcjgtb5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgHQPhWn8URn4FFrRgIfFtSLrcIzjcCCE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "516144024703-s64t8l5rhacvejcrmelabcfa7dcjgtb5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "516144024703-vs3p3cnhv8k78ag7t5gipsbhjk150o5j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.rezerve"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
